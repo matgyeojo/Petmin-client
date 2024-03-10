@@ -1,5 +1,5 @@
 ## Git 커미션
-## Commit Type
+### Commit Type
 - feat: 새로운 기능 추가
 - fix: 버그 수정
 - docs: 문서 수정
